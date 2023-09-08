@@ -25,6 +25,7 @@
 ![Alt text](./Screenshots/image-2.png)
 
 **:nine: 1.9 – Ves al repositorio remoto (en este caso GitHub) y comprueba que se haya realizado el commit correctamente y observa que pasa en el repositorio ¿Observas algo peculiar?**
+- No se a que te refieres con peculiar, me parece todo correcto.
 
 ## Resumen:
 _Primero inicio git local: $git init_  
